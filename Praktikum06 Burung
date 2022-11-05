@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burung Perkutut</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+    <div class="satu">
+    <h1 style="text-align: center;">Perkutut Jawa Suara Emas Penghibur Hati</h1>
+    </div>
+    <div class="dua">
+    <h2 style="text-align: center;">jikalau aku mendengarkan burung perkutut bernyanyi di pohon ditiup angin sepoi-sepoi bukan lagi aku mendengarkan burung perkutut, Aku mendengarkan Indonesia
+    Soekarno - Presiden RI I</h2>
+    </div>
+    <p style="text-align: center;">
+    <a href="https://google.com">Profil</a>
+    <a href="https://google.com">Budidaya</a>
+    <a href="https://google.com">Harga</a>
+    </p>
+
+    <img src="images/burung4.png" alt="Burung Perkutut Jawa" class="center">
+
+    <p><span style="color:blue;" width="100px">B</span>urung Perkutut Jawa dengan nama latin <span style="font-style:italic;">Geopelia Striata</span> 
+    bukan hanya burung yang mampu bersuara, akan tetapi burung ini mempunyai beragam keunikan yang tidak dimiliki oleh burung lainnya.
+    Bagi sebagian pemelihara burung,dengan hanya meliat burung perkutut, sudah bisa memastikan bagaimana suara yang dihasilkan.
+    Salah satu dari kebiasaan burung ini adalah terbang dan bertengger di kebun atau ladang. Selain itu, mereka juga sering mencari makan
+    di jalan yang jarang dilintasi manusia
+    <br>
+    <p>Perkutut Jawa hidup berpasangan atau kelompok kecil. Perkutut Jawa makan di permukaan tanah. Kadang mereka berkumpul untuk minum di sumber air.
+    Sarangnya berbentuk datar tipis dan terbuat dari ranting-ranting. Telur berwarna putih, jumlah telur 2 butir. Perkutut Jawa berbiak pada bukan Januari-September
+    </p>
+    <br>
+    <h2>Profil Perkutut Jawa</h2>
+    
+    
+
+   
+
+</body>
+</html>
+
+<!---- css> 
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+div {
+    
+    margin: auto;
+    padding: 20px;
+}
+
+.satu {
+    background-color: bisque;
+
+
+}
+
+.dua {
+    background-color:gold;
+    border: dotted;
+}
+
+h1 {
+    color: rgb(21, 17, 211);
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 400px;
+}
+
+p {
+    text-align: justify;
+}
